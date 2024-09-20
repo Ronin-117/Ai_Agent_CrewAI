@@ -16,10 +16,12 @@ Follow these steps to set up the project on your local machine.
 "cd Ai_Agent_CrewAI\n"
 ```
 
-3. Install the required dependencies:\n
+3. Install the required dependencies:
 ```bash
 "pip install -r requirements.txt\n"
 ```
+
+4. Add your Google api key inside "agents.py"
 
 ## Running the System
 To run the multi-agent system, execute the following command:
