@@ -1,7 +1,7 @@
 aiohttp
 aiosignal
 alembic
-annotated-types==0.7.0
+annotated-types
 anyio==4.4.0
 appdirs==1.4.4
 asgiref==3.8.1
