@@ -4,7 +4,7 @@ alembic
 annotated-types
 anyio
 appdirs
-asgiref==3.8.1
+asgiref
 async-timeout==4.0.3
 attrs==23.2.0
 backoff==2.2.1
