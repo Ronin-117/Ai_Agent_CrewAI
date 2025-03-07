@@ -8,7 +8,7 @@ asgiref
 async-timeout
 attrs
 backoff
-bcrypt==4.1.3
+bcrypt
 beautifulsoup4==4.12.3
 boto3==1.34.113
 botocore==1.34.113
