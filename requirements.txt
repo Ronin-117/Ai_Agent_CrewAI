@@ -10,7 +10,7 @@ attrs
 backoff
 bcrypt
 beautifulsoup4
-boto3==1.34.113
+boto3
 botocore==1.34.113
 Brotli==1.1.0
 build==1.2.1
