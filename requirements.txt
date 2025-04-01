@@ -12,7 +12,7 @@ bcrypt
 beautifulsoup4
 boto3
 botocore
-Brotli==1.1.0
+Brotli
 build==1.2.1
 cachetools==5.3.3
 certifi==2024.2.2
