@@ -14,7 +14,7 @@ boto3
 botocore
 Brotli
 build
-cachetools==5.3.3
+cachetools
 certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
