@@ -15,7 +15,7 @@ botocore
 Brotli
 build
 cachetools
-certifi==2024.2.2
+certifi
 cffi==1.16.0
 charset-normalizer==3.3.2
 chroma-hnswlib==0.7.3
