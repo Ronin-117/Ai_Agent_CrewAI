@@ -17,7 +17,7 @@ build
 cachetools
 certifi
 cffi
-charset-normalizer==3.3.2
+charset-normalizer
 chroma-hnswlib==0.7.3
 chromadb==0.4.24
 click==8.1.7
