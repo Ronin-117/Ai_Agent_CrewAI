@@ -18,7 +18,7 @@ cachetools
 certifi
 cffi
 charset-normalizer
-chroma-hnswlib==0.7.3
+chroma-hnswlib
 chromadb==0.4.24
 click==8.1.7
 cohere==5.5.3
