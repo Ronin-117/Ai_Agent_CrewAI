@@ -20,7 +20,7 @@ cffi
 charset-normalizer
 chroma-hnswlib
 chromadb
-click==8.1.7
+click
 cohere==5.5.3
 colorama==0.4.6
 coloredlogs==15.0.1
