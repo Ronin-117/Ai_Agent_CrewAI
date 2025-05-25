@@ -21,7 +21,7 @@ charset-normalizer
 chroma-hnswlib
 chromadb
 click
-cohere==5.5.3
+cohere
 colorama==0.4.6
 coloredlogs==15.0.1
 crewai==0.30.11
