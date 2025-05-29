@@ -22,7 +22,7 @@ chroma-hnswlib
 chromadb
 click
 cohere
-colorama==0.4.6
+colorama
 coloredlogs==15.0.1
 crewai==0.30.11
 crewai-tools==0.2.6
