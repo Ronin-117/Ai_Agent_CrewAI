@@ -23,7 +23,7 @@ chromadb
 click
 cohere
 colorama
-coloredlogs==15.0.1
+coloredlogs
 crewai==0.30.11
 crewai-tools==0.2.6
 cryptography==42.0.7
