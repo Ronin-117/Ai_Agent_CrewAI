@@ -24,7 +24,7 @@ click
 cohere
 colorama
 coloredlogs
-crewai==0.30.11
+crewai
 crewai-tools==0.2.6
 cryptography==42.0.7
 dataclasses-json==0.6.6
