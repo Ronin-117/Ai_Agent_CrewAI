@@ -27,7 +27,7 @@ coloredlogs
 crewai
 crewai-tools
 cryptography
-dataclasses-json==0.6.6
+dataclasses-json
 decorator==5.1.1
 Deprecated==1.2.14
 deprecation==2.1.0
