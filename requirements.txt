@@ -28,7 +28,7 @@ crewai
 crewai-tools
 cryptography
 dataclasses-json
-decorator==5.1.1
+decorator
 Deprecated==1.2.14
 deprecation==2.1.0
 distro==1.9.0
