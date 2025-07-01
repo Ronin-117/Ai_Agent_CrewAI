@@ -29,7 +29,7 @@ crewai-tools
 cryptography
 dataclasses-json
 decorator
-Deprecated==1.2.14
+Deprecated
 deprecation==2.1.0
 distro==1.9.0
 docstring-parser==0.15
