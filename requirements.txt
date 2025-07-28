@@ -32,7 +32,7 @@ decorator
 Deprecated
 deprecation
 distro
-docstring-parser==0.15
+docstring-parser
 docx2txt==0.8
 embedchain==0.1.102
 exceptiongroup==1.2.1
