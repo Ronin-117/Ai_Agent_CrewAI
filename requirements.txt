@@ -33,7 +33,7 @@ Deprecated
 deprecation
 distro
 docstring-parser
-docx2txt==0.8
+docx2txt
 embedchain==0.1.102
 exceptiongroup==1.2.1
 fastapi==0.110.3
