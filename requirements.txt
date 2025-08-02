@@ -34,7 +34,7 @@ deprecation
 distro
 docstring-parser
 docx2txt
-embedchain==0.1.102
+embedchain
 exceptiongroup==1.2.1
 fastapi==0.110.3
 fastavro==1.9.4
