@@ -35,7 +35,7 @@ distro
 docstring-parser
 docx2txt
 embedchain
-exceptiongroup==1.2.1
+exceptiongroup
 fastapi==0.110.3
 fastavro==1.9.4
 filelock==3.14.0
