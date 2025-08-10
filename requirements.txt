@@ -36,7 +36,7 @@ docstring-parser
 docx2txt
 embedchain
 exceptiongroup
-fastapi==0.110.3
+fastapi
 fastavro==1.9.4
 filelock==3.14.0
 flatbuffers==24.3.25
