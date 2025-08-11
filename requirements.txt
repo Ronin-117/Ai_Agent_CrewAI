@@ -37,7 +37,7 @@ docx2txt
 embedchain
 exceptiongroup
 fastapi
-fastavro==1.9.4
+fastavro
 filelock==3.14.0
 flatbuffers==24.3.25
 frozenlist==1.4.1
