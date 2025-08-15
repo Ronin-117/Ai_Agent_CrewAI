@@ -38,7 +38,7 @@ embedchain
 exceptiongroup
 fastapi
 fastavro
-filelock==3.14.0
+filelock
 flatbuffers==24.3.25
 frozenlist==1.4.1
 fsspec==2024.5.0
