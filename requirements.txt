@@ -39,7 +39,7 @@ exceptiongroup
 fastapi
 fastavro
 filelock
-flatbuffers==24.3.25
+flatbuffers
 frozenlist==1.4.1
 fsspec==2024.5.0
 gitdb==4.0.11
