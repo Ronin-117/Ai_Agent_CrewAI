@@ -41,7 +41,7 @@ fastavro
 filelock
 flatbuffers
 frozenlist
-fsspec==2024.5.0
+fsspec
 gitdb==4.0.11
 GitPython==3.1.43
 google-ai-generativelanguage==0.6.4
