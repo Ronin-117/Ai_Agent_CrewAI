@@ -46,7 +46,7 @@ gitdb
 GitPython
 google-ai-generativelanguage
 google-api-core
-google-api-python-client==2.130.0
+google-api-python-client
 google-auth==2.29.0
 google-auth-httplib2==0.2.0
 google-cloud-aiplatform==1.52.0
