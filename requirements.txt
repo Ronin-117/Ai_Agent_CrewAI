@@ -47,7 +47,7 @@ GitPython
 google-ai-generativelanguage
 google-api-core
 google-api-python-client
-google-auth==2.29.0
+google-auth
 google-auth-httplib2==0.2.0
 google-cloud-aiplatform==1.52.0
 google-cloud-bigquery==3.23.1
