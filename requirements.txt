@@ -48,7 +48,7 @@ google-ai-generativelanguage
 google-api-core
 google-api-python-client
 google-auth
-google-auth-httplib2==0.2.0
+google-auth-httplib2
 google-cloud-aiplatform==1.52.0
 google-cloud-bigquery==3.23.1
 google-cloud-core==2.4.1
